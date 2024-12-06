@@ -380,7 +380,7 @@ export const themeConfig = {
   // 音乐播放器
   // https://github.com/imsyy/Meting-API
   music: {
-    enable: false,
+    enable: true,
     // url
     url: "https://api-meting.example.com",
     // id
@@ -436,6 +436,6 @@ export const themeConfig = {
   },
   // 站点统计
   tongji: {
-    "51la": "",
+    "51la": "KUxo2k6YJXvlC54R",
   },
 };
