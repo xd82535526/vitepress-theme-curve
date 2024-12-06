@@ -179,7 +179,7 @@ export const themeConfig = {
         },
       ],
     },
-    {
+    /*{
       name: "项目",
       list: [
         {
@@ -213,7 +213,7 @@ export const themeConfig = {
           url: "https://github.com/imsyy/site-status",
         },
       ],
-    },
+    },*/
   ],
   // 封面配置
   cover: {
