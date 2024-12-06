@@ -179,7 +179,7 @@ export const themeConfig = {
         },
       ],
     },
-    /*{
+    {
       name: "项目",
       list: [
         {
@@ -214,7 +214,7 @@ export const themeConfig = {
         },
       ],
     },
-  ],*/
+  ],
   // 封面配置
   cover: {
     // 是否开启双栏布局
