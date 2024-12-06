@@ -40,7 +40,7 @@ export const themeConfig = {
           rel: "alternate",
           type: "application/rss+xml",
           title: "RSS",
-          href: "https://blog.imsyy.top/rss.xml",
+          href: "https://blog.99000.top/rss.xml",
         },
       ],
       // 预载 CDN
@@ -393,9 +393,9 @@ export const themeConfig = {
   // 搜索
   // https://www.algolia.com/
   search: {
-    enable: false,
-    appId: "",
-    apiKey: "",
+    enable: true,
+    appId: "HN34KI56LA",
+    apiKey: "3ff15c93299675064c3bbf78f34170fa",
   },
   // 打赏
   rewardData: {
