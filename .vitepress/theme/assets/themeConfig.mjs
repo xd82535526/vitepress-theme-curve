@@ -3,21 +3,21 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Curve",
+    title: "花菜博客",
     // 站点描述
-    description: "Hello World",
+    description: "花菜博客",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://blog.imsyy.top",
+    site: "https://blog.99000.top",
     // 语言
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Admin",
+      name: "花菜",
       cover: "/images/logo/logo.webp",
-      email: "114514@gmail.com",
-      link: "https://www.imsyy.top",
+      email: "rxgzs@vip.qq.com",
+      link: "https://99000.top",
     },
   },
   // 备案信息
