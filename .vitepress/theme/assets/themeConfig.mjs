@@ -218,7 +218,7 @@ export const themeConfig = {
   // 封面配置
   cover: {
     // 是否开启双栏布局
-    twoColumns: false,
+    twoColumns: true,
     // 是否开启封面显示
     showCover: {
       // 是否开启封面显示 文章不设置cover封面会显示异常，可以设置下方默认封面
@@ -227,9 +227,7 @@ export const themeConfig = {
       coverLayout: 'both',
       // 默认封面(随机展示)
       defaultCover: [
-        'https://example.com/1.avif',
-        'https://example.com/2.avif',
-        'https://example.com/3.avif'
+        'https://pan.99000.top/public/uploads/20241112/1/文章默认缩略图.jpeg'
       ]
     }
   },
@@ -239,27 +237,11 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:one@imsyy.top",
-      },
-      {
-        icon: "github",
-        link: "https://www.github.com/imsyy/",
-      },
-      {
-        icon: "telegram",
-        link: "https://t.me/bottom_user",
-      },
-      {
-        icon: "bilibili",
-        link: "https://space.bilibili.com/98544142",
+        link: "mailto:rxgzs@vip.qq.com",
       },
       {
         icon: "qq",
-        link: "https://res.abeim.cn/api/qq/?qq=1539250352",
-      },
-      {
-        icon: "twitter-x",
-        link: "https://twitter.com/iimmsyy",
+        link: "https://res.abeim.cn/api/qq/?qq=398525821",
       },
     ],
     // sitemap
@@ -273,15 +255,15 @@ export const themeConfig = {
           { text: "文章归档", link: "/pages/archives", newTab: true },
         ],
       },
-      {
-        text: "项目",
-        items: [
-          { text: "Home", link: "https://github.com/imsyy/home/", newTab: true },
-          { text: "SPlayer", link: "https://github.com/imsyy/SPlayer/", newTab: true },
-          { text: "DailyHotApi", link: "https://github.com/imsyy/DailyHotApi/", newTab: true },
-          { text: "Snavigation", link: "https://github.com/imsyy/Snavigation/", newTab: true },
-        ],
-      },
+     // {
+     //   text: "项目",
+     //   items: [
+     //     { text: "Home", link: "https://github.com/imsyy/home/", newTab: true },
+     //    { text: "SPlayer", link: "https://github.com/imsyy/SPlayer/", newTab: true },
+     //     { text: "DailyHotApi", link: "https://github.com/imsyy/DailyHotApi/", newTab: true },
+      //    { text: "Snavigation", link: "https://github.com/imsyy/Snavigation/", newTab: true },
+      //  ],
+     // },
       {
         text: "专栏",
         items: [
@@ -302,12 +284,12 @@ export const themeConfig = {
       {
         text: "服务",
         items: [
-          { text: "站点状态", link: "https://status.imsyy.top/", newTab: true },
-          { text: "一个导航", link: "https://nav.imsyy.top/", newTab: true },
-          { text: "站点订阅", link: "https://blog.imsyy.top/rss.xml", newTab: true },
+          { text: "站点状态", link: "https://status.99000.top/", newTab: true },
+          { text: "资源分享", link: "https://e.likestudy.cn/", newTab: true },
+          { text: "站点订阅", link: "https://blog.99000.top/rss.xml", newTab: true },
           {
             text: "反馈投诉",
-            link: "https://eqnxweimkr5.feishu.cn/share/base/form/shrcnCXCPmxCKKJYI3RKUfefJre",
+            link: "https://support.qq.com/products/675368",
             newTab: true,
           },
         ],
@@ -380,7 +362,7 @@ export const themeConfig = {
   // 音乐播放器
   // https://github.com/imsyy/Meting-API
   music: {
-    enable: true,
+    enable: false,
     // url
     url: "https://api-meting.example.com",
     // id
@@ -401,9 +383,9 @@ export const themeConfig = {
   rewardData: {
     enable: true,
     // 微信二维码
-    wechat: "https://pic.efefee.cn/uploads/2024/04/07/66121049d1e80.webp",
+    wechat: "https://pan.99000.top/public/uploads/20240618/1/微信.png",
     // 支付宝二维码
-    alipay: "https://pic.efefee.cn/uploads/2024/04/07/661206631d3b5.webp",
+    alipay: "https://pan.99000.top/public/uploads/20240618/1/支付宝.png",
   },
   // 图片灯箱
   fancybox: {
